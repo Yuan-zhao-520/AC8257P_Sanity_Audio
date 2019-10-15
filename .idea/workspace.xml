@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ffa8c8-1622-463d-a733-b5f2ebe1bb11" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/sanity_audio.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/report/Sanity_Audio_2019-10-15114635.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Program Files\JetBrains\PyCharm 2019.1.3\appiumpython</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main/run.py" />
+        <option value="$PROJECT_DIR$/testcase/music.py" />
+        <option value="$PROJECT_DIR$/loger/loger_test.py" />
+        <option value="$PROJECT_DIR$/driver/driver.py" />
+        <option value="$PROJECT_DIR$/main/main.py" />
+        <option value="$PROJECT_DIR$/testcase/sanity_audio.py" />
+        <option value="$PROJECT_DIR$/utrl/read_ini.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/testcase/123.py" />
+        <option value="$PROJECT_DIR$/testcase/homework_0821.py" />
+        <option value="$PROJECT_DIR$/testcase/Yuan_HomeWork_0826_03.py" />
+        <option value="$PROJECT_DIR$/testcase/Yuan_HomeWork_0828.py" />
+        <option value="$PROJECT_DIR$/testcase/Yuan_HomeWork_0828_01.py" />
+        <option value="$PROJECT_DIR$/testcase/2.py" />
+        <option value="$PROJECT_DIR$/testcase/Yuan_HomeWork_0828_03.py" />
+        <option value="$PROJECT_DIR$/testcase/Yuan_HomeWork_0828_04.py" />
+        <option value="$PROJECT_DIR$/0830/Yuan_HomeWork_0830_01.py" />
+        <option value="$PROJECT_DIR$/0830/Yuan_HomeWork_0830_03.py" />
+        <option value="$PROJECT_DIR$/0830/Yuan_HomeWork_0830_04.py" />
+        <option value="$PROJECT_DIR$/testcase/CPU_Monitor_AC8227L_Android_O_Ver1.3.py" />
+        <option value="$PROJECT_DIR$/0909/Yuan_Class_0909_01.py" />
+        <option value="$PROJECT_DIR$/0909/Yuan_class_0909_02.py" />
+        <option value="$PROJECT_DIR$/0909/Yuan_class_0909_03.py" />
+        <option value="$PROJECT_DIR$/0909/Yuan_class_0909_04.py" />
+        <option value="$PROJECT_DIR$/testcase/C2/lianxi.py" />
+        <option value="$PROJECT_DIR$/unittest_0918/1.py" />
+        <option value="$PROJECT_DIR$/unittest_0918/2.py" />
+        <option value="$PROJECT_DIR$/unittest_0918/run.py" />
+        <option value="$PROJECT_DIR$/unittest_0918/Yuan_unittest_0918.py" />
+        <option value="$PROJECT_DIR$/Excel/write_excel.py" />
+        <option value="$PROJECT_DIR$/unittest_0918/two.py" />
+        <option value="$PROJECT_DIR$/unittest_0918/one.py" />
+        <option value="$PROJECT_DIR$/Excel/1.py" />
+        <option value="$PROJECT_DIR$/read_ini_file/config.ini" />
+        <option value="$PROJECT_DIR$/read_ini_file/readconfig.py" />
+        <option value="$PROJECT_DIR$/testcase/练习.py" />
+        <option value="$PROJECT_DIR$/testcase/1.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/swipe (2).py" />
+        <option value="$PROJECT_DIR$/testcase/test_one.py" />
+        <option value="$PROJECT_DIR$/testcase/input.py" />
+        <option value="$PROJECT_DIR$/testcase/long_press.py" />
+        <option value="$PROJECT_DIR$/testcase/unittest.py" />
+        <option value="$PROJECT_DIR$/testcase/test_usbdvr.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="281" />
+    <option name="y" value="29" />
+    <option name="width" value="1425" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AC8257P_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="appiumpython" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\JetBrains\PyCharm 2019.1.3\appiumpython\testcase\C2" />
+      <recent name="C:\Program Files\JetBrains\PyCharm 2019.1.3\appiumpython\0828" />
+      <recent name="C:\Program Files\JetBrains\PyCharm 2019.1.3\appiumpython\0826" />
+      <recent name="C:\Program Files\JetBrains\PyCharm 2019.1.3\appiumpython\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration default="true" type="DjangoTestsConfigurationType">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_usbdvr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testcase/test_usbdvr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_usbdvr.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_usbdvr.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in unittest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="AC8257P_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/unittest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.pytest in unittest.py" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.test_usbdvr" />
+        <item itemvalue="Python tests.pytest in test_usbdvr.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ffa8c8-1622-463d-a733-b5f2ebe1bb11" name="Default Changelist" comment="" />
+      <created>1565148018681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565148018681</updated>
+      <workItem from="1565148026927" duration="25963000" />
+      <workItem from="1565335594086" duration="1674000" />
+      <workItem from="1565573123800" duration="6353000" />
+      <workItem from="1565848641368" duration="22992000" />
+      <workItem from="1566179266299" duration="1292000" />
+      <workItem from="1566463204690" duration="5048000" />
+      <workItem from="1566784026704" duration="644000" />
+      <workItem from="1566955812528" duration="1936000" />
+      <workItem from="1567047848675" duration="10320000" />
+      <workItem from="1567067135449" duration="7938000" />
+      <workItem from="1567388271780" duration="1738000" />
+      <workItem from="1567588856679" duration="9720000" />
+      <workItem from="1567652035959" duration="10657000" />
+      <workItem from="1567738042684" duration="21080000" />
+      <workItem from="1568095700806" duration="4158000" />
+      <workItem from="1568168387767" duration="9089000" />
+      <workItem from="1568188969523" duration="1911000" />
+      <workItem from="1568605863718" duration="2598000" />
+      <workItem from="1568690923824" duration="784000" />
+      <workItem from="1568770552408" duration="5139000" />
+      <workItem from="1568941867390" duration="15316000" />
+      <workItem from="1569202695446" duration="5613000" />
+      <workItem from="1569219726274" duration="53000" />
+      <workItem from="1569378190773" duration="7469000" />
+      <workItem from="1570850065245" duration="5039000" />
+      <workItem from="1570860075101" duration="3097000" />
+      <workItem from="1571110581993" duration="2580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_sanity_audio_MyTestCase_test_AAC_MPEG2_AAC_LC - 2019.08.07 at 16h 50m 12s.xml">
+      <configuration name="pytest for sanity_audio.MyTestCase.test_AAC_MPEG2_AAC_LC" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_sanity_audio_MyTestCase_test_AAC_MPEG2_AAC_LC - 2019.08.07 at 16h 50m 55s.xml">
+      <configuration name="pytest for sanity_audio.MyTestCase.test_AAC_MPEG2_AAC_LC" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_sanity_audio_MyTestCase_test_AAC_MPEG2_AAC_LC - 2019.08.07 at 16h 53m 18s.xml">
+      <configuration name="pytest for sanity_audio.MyTestCase.test_AAC_MPEG2_AAC_LC" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_sanity_audio_MyTestCase - 2019.08.07 at 16h 57m 02s.xml">
+      <configuration name="pytest for sanity_audio.MyTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_sanity_audio_MyTestCase - 2019.08.07 at 17h 09m 36s.xml">
+      <configuration name="pytest for sanity_audio.MyTestCase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_1_py - 2019.09.20 at 09h 15m 59s.xml">
+      <configuration name="pytest in 1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_1_py - 2019.09.20 at 09h 16m 40s.xml">
+      <configuration name="pytest in 1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_one_py - 2019.09.25 at 10h 31m 53s.xml">
+      <configuration name="pytest in test_one.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_usbdvr_py - 2019.09.25 at 17h 58m 26s.xml">
+      <configuration name="pytest in test_usbdvr.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_unittest_py - 2019.10.12 at 14h 02m 47s.xml">
+      <configuration name="pytest in unittest.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190201000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="281" y="29" width="1425" height="1010" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36190477" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3735763" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997722" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32915717" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0828_04.coverage" NAME="Yuan_HomeWork_0828_04 Coverage Results" MODIFIED="1567128637315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$readconfig.coverage" NAME="readconfig Coverage Results" MODIFIED="1569205244788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/read_ini_file" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0828_01.coverage" NAME="Yuan_HomeWork_0828_01 Coverage Results" MODIFIED="1567064853994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0830_03.coverage" NAME="Yuan_HomeWork_0830_03 Coverage Results" MODIFIED="1567588905798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0830" />
+    <SUITE FILE_PATH="coverage/appiumpython$write_excel.coverage" NAME="write_excel Coverage Results" MODIFIED="1568958324137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Excel" />
+    <SUITE FILE_PATH="coverage/appiumpython$read_ini.coverage" NAME="read_ini Coverage Results" MODIFIED="1565944931590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utrl" />
+    <SUITE FILE_PATH="coverage/appiumpython$CPU_Monitor_AC8227L_Android_O_Ver1_3.coverage" NAME="CPU_Monitor_AC8227L_Android_O_Ver1.3 Coverage Results" MODIFIED="1567770584613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$pytest_in_1_py.coverage" NAME="pytest in 1.py Coverage Results" MODIFIED="1568942199128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_0918" />
+    <SUITE FILE_PATH="coverage/appiumpython$1.coverage" NAME="1 Coverage Results" MODIFIED="1569405949831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0826_03.coverage" NAME="Yuan_HomeWork_0826_03 Coverage Results" MODIFIED="1566957139912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$homework_0821.coverage" NAME="homework_0821 Coverage Results" MODIFIED="1566468044007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0828_03.coverage" NAME="Yuan_HomeWork_0828_03 Coverage Results" MODIFIED="1567069585922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$two.coverage" NAME="two Coverage Results" MODIFIED="1568964031115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_0918" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0830_02.coverage" NAME="Yuan_HomeWork_0830_02 Coverage Results" MODIFIED="1567388989481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0830" />
+    <SUITE FILE_PATH="coverage/appiumpython$pytest_in_unittest_py.coverage" NAME="pytest in unittest.py Coverage Results" MODIFIED="1570860164257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0828.coverage" NAME="Yuan_HomeWork_0828 Coverage Results" MODIFIED="1567058303748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$.coverage" NAME="练习 Coverage Results" MODIFIED="1565944956317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$lianxi.coverage" NAME="lianxi Coverage Results" MODIFIED="1568612783505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/C2" />
+    <SUITE FILE_PATH="coverage/appiumpython$run.coverage" NAME="run Coverage Results" MODIFIED="1568943376499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_0918" />
+    <SUITE FILE_PATH="coverage/appiumpython$test_usbdvr.coverage" NAME="test_usbdvr Coverage Results" MODIFIED="1569405552309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_Class_0909_01.coverage" NAME="Yuan_Class_0909_01 Coverage Results" MODIFIED="1568098752595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0909" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_class_0909_02.coverage" NAME="Yuan_class_0909_02 Coverage Results" MODIFIED="1568182186307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0909" />
+    <SUITE FILE_PATH="coverage/appiumpython$main.coverage" NAME="main Coverage Results" MODIFIED="1566180567580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/appiumpython$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1567069060587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$pytest_for_sanity_audio_MyTestCase_test_AAC_MPEG2_AAC_LC.coverage" NAME="pytest for sanity_audio.MyTestCase.test_AAC_MPEG2_AAC_LC Coverage Results" MODIFIED="1565167984481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$pytest_in_test_one_py.coverage" NAME="pytest in test_one.py Coverage Results" MODIFIED="1569378649880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$one.coverage" NAME="one Coverage Results" MODIFIED="1568962790212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_0918" />
+    <SUITE FILE_PATH="coverage/appiumpython$test_one.coverage" NAME="test_one Coverage Results" MODIFIED="1569405428046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$sanity_audio.coverage" NAME="sanity_audio Coverage Results" MODIFIED="1565580071632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$pytest_in_test_usbdvr_py.coverage" NAME="pytest in test_usbdvr.py Coverage Results" MODIFIED="1569405486527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_class_0909_03.coverage" NAME="Yuan_class_0909_03 Coverage Results" MODIFIED="1568189314141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0909" />
+    <SUITE FILE_PATH="coverage/appiumpython$Yuan_HomeWork_0830_01.coverage" NAME="Yuan_HomeWork_0830_01 Coverage Results" MODIFIED="1567388937059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0830" />
+    <SUITE FILE_PATH="coverage/appiumpython$pytest_for_sanity_audio_MyTestCase.coverage" NAME="pytest for sanity_audio.MyTestCase Coverage Results" MODIFIED="1565168777636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$music.coverage" NAME="music Coverage Results" MODIFIED="1565167538691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/appiumpython$2.coverage" NAME="2 Coverage Results" MODIFIED="1568942897449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_0918" />
+    <SUITE FILE_PATH="coverage/AC8257P_autotest$main.coverage" NAME="main Coverage Results" MODIFIED="1571111146884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/0828/Yuan_HomeWork_0828_01.py" />
+    <entry file="file://$PROJECT_DIR$/0828/Yuan_HomeWork_0828_04.py" />
+    <entry file="file://$PROJECT_DIR$/0830/Yuan_HomeWork_0830_02.py" />
+    <entry file="file://$PROJECT_DIR$/0830/Yuan_HomeWork_0830_04.py" />
+    <entry file="file://$PROJECT_DIR$/0830/Yuan_HomeWork_0830_03.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1184660488/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="479" column="38" selection-start-line="479" selection-start-column="36" selection-end-line="479" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/CPU_Monitor_AC8227L_Android_O_Ver1.3.py" />
+    <entry file="file://$PROJECT_DIR$/0830/Yuan_HomeWork_0830_01.py" />
+    <entry file="file://$PROJECT_DIR$/0909/Yuan_class_0909_01.py" />
+    <entry file="file://$PROJECT_DIR$/0909/Yuan_class_0909_02.py" />
+    <entry file="file://$PROJECT_DIR$/0909/Yuan_class_0909_04.py" />
+    <entry file="file://$PROJECT_DIR$/0909/Yuan_class_0909_03.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/C2/lianxi.py" />
+    <entry file="file://C:/Python36/Lib/site-packages/openpyxl/worksheet/_reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="297" selection-start-line="297" selection-end-line="297" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_0918/1.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/report/2019-09-20-09-22-55.html" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/report/2019-09-20-09-28-17.html" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/2.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/report/2019-09-20-09-36-16.html" />
+    <entry file="file://$PROJECT_DIR$/../helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="248" column="8" selection-start-line="248" selection-start-column="8" selection-end-line="248" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_0918/run.py" />
+    <entry file="file://$PROJECT_DIR$/Excel/write_excel.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/report/2019-09-20-14-59-50.txt" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/demo.txt" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/Yuan_unittest_0918.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/two.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_0918/one.py" />
+    <entry file="file://$PROJECT_DIR$/Excel/1.py" />
+    <entry file="file://$PROJECT_DIR$/read_ini_file/readconfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_ini_file/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/driver/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="529" selection-start-line="529" selection-end-line="529" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="321" column="8" selection-start-line="321" selection-start-column="8" selection-end-line="321" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="18" column="64" lean-forward="true" selection-end-line="18" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/swipe (2).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/test_one (2).py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/input (2).py" />
+    <entry file="file://$PROJECT_DIR$/testcase/long_press.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="19" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/long_press (2).py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/unittest (2).py" />
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_usbdvr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#24#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utrl/read_ini.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" selection-end-column="18" />
+          <folding>
+            <element signature="e#24#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/unittest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="21" lean-forward="true" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/sanity_audio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="68" selection-start-line="12" selection-start-column="68" selection-end-line="12" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/Sanity_Audio_2019-10-15114635.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
