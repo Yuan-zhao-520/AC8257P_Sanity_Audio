@@ -74,13 +74,16 @@ class MyTestCase(unittest.TestCase):
         #切换下一曲
         self.Next_music()
         #判定切换下一曲是否成功
-        self.assertEqual(self.music_name(), "02_MPEG2_AAC_LC_44.1KHz_2ch_VBR_ADTS", '测试未通过')
-        #切换上一曲
-        self.Prv_music()
-        #判定切换上一曲是否成功
-        self.assertEqual(self.music_name(), "MPEG1_L3_44.1KHz_320Kbps_2ch", '测试未通过')
-        # 切换下一曲
-        self.Next_music()
+        try:
+            self.assertEqual(self.music_name(), "02_MPEG2_AAC_LC_44.1KHz_2ch_VBR_ADTS", '测试未通过')
+            #切换上一曲
+            self.Prv_music()
+            #判定切换上一曲是否成功
+            self.assertEqual(self.music_name(), "MPEG1_L3_44.1KHz_320Kbps_2ch", '测试未通过')
+            # 切换下一曲
+            self.Next_music()
+         except:
+            
 
 
     def test_55_AAC_MPEG2_AAC_LC(self):
